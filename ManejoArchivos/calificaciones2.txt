@@ -1,0 +1,5 @@
+﻿Luis; Alvarez; 10; 15
+José; Martinez; 5; 18
+Manuel; Macas; 20; 20
+Ivan; Moran; 13; 1
+ 

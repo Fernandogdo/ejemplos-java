@@ -1,0 +1,20 @@
+		Comercial Ventas y Reventas
+Nombre: Gabriel
+Ciudad: Loja
+-----------------------------------
+Producto		Cant		Precio
+Azúcar		3		4,50
+----------------------------------------
+			Subtotal: 4,50
+			IVA: 0,63
+			TOTAL: 5,13
+		Comercial Ventas y Reventas
+Nombre: Juan
+Ciudad: Loja
+-----------------------------------
+Producto		Cant		Precio
+Tallarines		5		7,50
+----------------------------------------
+			Subtotal: 7,50
+			IVA: 1,05
+			TOTAL: 8,55
